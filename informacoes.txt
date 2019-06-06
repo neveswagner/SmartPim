@@ -1,0 +1,33 @@
+		O projeto retrata o desenvolvimento de um software no qual o mesmo fara parte da
+	
+		empresa HIPIMercado, que necessita de um software com armazenamento de dados,
+
+		 para um melhor controle de suas financas e mais agilidade e praticidade no
+
+		 fluxo de caixa, para um melhor atendimento aos seus clientes possibilitando
+
+		 suprir as necessidades de sua vida cotidiana.
+	
+		Para se certificar da qualidade do desenvolvimento do sistema e desse
+
+		projeto, foi utilizado ferramentas da Engenharia de Software, sua principal
+
+		funcionalidade e o controle de vendas dos caixas de supermercado, entre outras
+
+		funcoes, como: cadastro de mercadorias, cadastro de codigo de barras, cadastro de
+
+		valores dos produtos, sendo responsavel por gerenciar os dados em arquivos, o
+
+		software foi desenvolvido na linguagem de programacao C.
+
+		O sistema operacional Windows foi usado para o desenvolvimento, testes e
+
+		utilizacao do software.
+
+		Todo o desenvolvimento do sistema e com base nos requisitos funcionais
+
+		fornecido pela  HIPIMercado Ltda. atendendo plenamente a necessidade da empresa
+
+		e ajudando-a no seu objetivo de mercado na qual e expandir a sua marca com
+
+		qualidade, agilidade, praticidade e seguranca.

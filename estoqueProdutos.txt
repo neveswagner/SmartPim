@@ -1,0 +1,15 @@
+1|pao|7,00
+2|danone|1,99
+3|batata|3,50
+4|alface|2,00
+5|queijo|5,00
+6|nescau|9,00
+7|neston|10,90
+8|arroz|8,70
+9|macarrao|5,15
+10|leite|2,70
+0014|abacate|2.00
+0015|pinga|4.00
+0016|teste|3.00
+0017|cerveja|5.00
+0018|fralda|25.00
